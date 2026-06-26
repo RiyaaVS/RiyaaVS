@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Riya Gautam 👋
 
 ### B.Tech CSE Student | Python Learner
